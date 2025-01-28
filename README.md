@@ -8,6 +8,6 @@ technologies.
 
 <h2> Screenshot </h2>
 
-![](screen.gif)
+![](screen-1.gif)
 
 # udemig education bs
